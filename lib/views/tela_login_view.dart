@@ -10,9 +10,8 @@ class TelaLoginView extends StatefulWidget {
 
 class _TelaLoginViewState extends State<TelaLoginView> {
   final TelaLoginController _controller = TelaLoginController();
-  final TextEditingController _usuarioCtrl =
-  TextEditingController(text: 'admin');
-  final TextEditingController _senhaCtrl = TextEditingController(text: '123');
+  final TextEditingController _usuarioCtrl = TextEditingController(text: '');
+  final TextEditingController _senhaCtrl = TextEditingController(text: '');
   final TextEditingController _emailCtrl = TextEditingController();
 
   bool _mostrarEsqueciSenha = false;
