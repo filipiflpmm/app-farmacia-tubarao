@@ -10,3 +10,8 @@ Aplicativo e plataforma Web desenvolvidos em Flutter e Firebase para consulta p�
 
 ## 🔗 Link do Site
 [Acesse o aplicativo Web online](https://appfarmacia-e2fed.web.app)
+
+## 📱 Download do Aplicativo (Android)
+Você pode baixar e instalar o aplicativo diretamente no seu celular Android clicando no link abaixo:
+
+[📥 Baixar APP Farmácia Básica Municipal Tubarão (.APK)](https://github.com/filipiflpmm/app-farmacia-tubarao/releases/download/v1.0.0/app-release.apk1)
