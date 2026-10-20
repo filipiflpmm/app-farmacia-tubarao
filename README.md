@@ -1,17 +1,12 @@
-# app_farmacia
+# 🏥 Farmácia Básica Municipal Central de Tubarão
 
-A new Flutter project.
+Aplicativo e plataforma Web desenvolvidos em Flutter e Firebase para consulta pública de disponibilidade de medicamentos da Farmácia Municipal de Tubarão - SC.
 
-## Getting Started
+## 🚀 Tecnologias e Padrões
+- **Linguagem**: Dart / Flutter
+- **Arquitetura**: MVC (Model-View-Controller)
+- **Backend**: Firebase Firestore & Firebase Hosting
+- **Acessibilidade**: Interface simples responsiva Web/Mobile.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔗 Link do Site
+[Acesse o aplicativo Web online](https://appfarmacia-e2fed.web.app)
