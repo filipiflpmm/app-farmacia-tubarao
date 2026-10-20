@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "appfarmacia-e2fed",
+          "appId": "1:507127458289:android:601f21047bff7b91f63c50",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "appfarmacia-e2fed",
+          "configurations": {
+            "android": "1:507127458289:android:601f21047bff7b91f63c50",
+            "ios": "1:507127458289:ios:8a10bd8789b5ec33f63c50",
+            "macos": "1:507127458289:ios:8a10bd8789b5ec33f63c50",
+            "web": "1:507127458289:web:668c19dffa2c8cf8f63c50",
+            "windows": "1:507127458289:web:7bc6b58f047b1c7ff63c50"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

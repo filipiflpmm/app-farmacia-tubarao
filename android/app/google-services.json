@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507127458289",
+    "project_id": "appfarmacia-e2fed",
+    "storage_bucket": "appfarmacia-e2fed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507127458289:android:601f21047bff7b91f63c50",
+        "android_client_info": {
+          "package_name": "com.ifsc.app_farmacia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC954jbSTs0Ueyp1Q79_7OMHeEFHbfc5kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
